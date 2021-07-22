@@ -1,6 +1,6 @@
-#特殊按键ASCII码
+特殊按键ASCII码
 
-ESC键 VK_ESCAPE (27)
+#ESC键 VK_ESCAPE (27)
 回车键： VK_RETURN (13)
 TAB键： VK_TAB (9)
 Caps Lock键： VK_CAPITAL (20)
